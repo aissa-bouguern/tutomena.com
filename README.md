@@ -1,8 +1,9 @@
 # tutomena.com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/0a51d0e9-f611-4dd8-887f-fc1889e68540/deploy-status)](https://app.netlify.com/sites/tania/deploys)
-
-الويب يعني ثقافة المشاركة، لذلك نعتقد في **مدونة توتومينا** بأن المعلومة مهما كانت بسيطة لا يجب أن تبقى حكرا على أشخاص معينين بل يجب مشاركتها مع الآخرين وبذلك نرتقي بأنفسنا وبمحتوى لغتنا العربية العزيزة على الإنترنت.
+<p dir='rtl' align='right'>
+الويب يعني ثقافة المشاركة، لذلك نعتقد في<b>مدونة توتومينا</b> بأن المعلومة مهما كانت بسيطة لا يجب أن تبقى حكرا على أشخاص معينين بل يجب مشاركتها مع الآخرين وبذلك نرتقي بأنفسنا وبمحتوى لغتنا العربية العزيزة على الإنترنت.
+</p>
 
 ## Features
 
