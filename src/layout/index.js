@@ -4,7 +4,7 @@ import ThemeContext from '../context/ThemeContext';
 import Navigation from '../components/Navigation';
 import Footer from '../components/Footer';
 import config from '../../data/SiteConfig';
-import favicon from '../images/tutomena.png';
+import favicon from '../images/roov.png';
 import '../styles/main.scss';
 
 export default class MainLayout extends Component {
