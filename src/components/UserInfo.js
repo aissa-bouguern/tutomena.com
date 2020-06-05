@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import aissa from '../../content/thumbnails/abdulrhman.png';
+import abdulrhman from '../../content/thumbnails/abdulrhman.png';
 /* import patreon from '../../content/thumbnails/patreon.png';
 import kofi from '../../content/thumbnails/kofi.png'; */
 
@@ -10,7 +10,7 @@ export default class UserInfo extends Component {
         <div className="container note-container">
           <div className="flex-author">
             <div className="flex-avatar">
-              <img className="avatar" src={aissa} alt="عبدالرحمن خالد" />
+              <img className="avatar" src={abdulrhman} alt="عبدالرحمن خالد" />
             </div>
             <div>
               <h3 style={{ marginBottom: '1.2rem' }}>عبدالرحمن خالد</h3>
