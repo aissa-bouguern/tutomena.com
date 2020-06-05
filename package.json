@@ -1,8 +1,8 @@
 {
-  "name": "tutomena.com",
-  "description": "مدونة توتومينا، ملتقى المطورين العرب.",
+  "name": "روف",
+  "description": "معاً نجعل المحتوى العربي أفضل",
   "version": "1.0.0",
-  "author": "Aissa BOUGUERN <aissa.bouguern@gmail.com>",
+  "author": "Abdulrhman khaled <admin@roovhost.com>",
   "repository": "git@github.com:aissa-bouguern/tutomena.com",
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
