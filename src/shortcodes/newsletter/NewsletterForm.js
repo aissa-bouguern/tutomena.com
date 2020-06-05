@@ -19,7 +19,7 @@ export default function NewsletterForm() {
 
     if (result.result === 'error') {
       if (email) {
-        setMessage('لقد سبق لك الإشتراك في قائمة توتومينا البريدية.');
+        setMessage('لقد سبق لك الإشتراك في قائمة روف البريدية.');
       } else {
         setMessage('البريد الإلكتروني غير سليم.');
       }
