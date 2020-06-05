@@ -2,7 +2,7 @@ const config = {
   siteTitle: 'مجتمع روف',
   siteTitleShort: 'مجتمع روف',
   siteTitleAlt: 'مجتمعروف',
-  siteLogo: '/logos/logo.png',
+  siteLogo: '/logos/logo-1024.png.png',
   siteUrl: 'https://www.tutomena.com',
   repo: 'https://github.com/aissa-bouguern/tutomena.com',
   pathPrefix: '',
