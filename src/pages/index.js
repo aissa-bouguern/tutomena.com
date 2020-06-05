@@ -8,7 +8,7 @@ import PostListing from '../components/PostListing';
 /* import SimpleListing from '../components/SimpleListing'; */
 import SEO from '../components/SEO';
 import config from '../../data/SiteConfig';
-import tutomena from '../../content/thumbnails/tutomena.png';
+import roov from '../../content/thumbnails/roov.png';
 import twitterIcon from '../../content/thumbnails/twitter-32.png';
 import facebookIcon from '../../content/thumbnails/facebook-32.png';
 /* import youtubeIcon from '../../content/thumbnails/youtube-32.png'; */
@@ -27,30 +27,18 @@ export default class Index extends Component {
         <div className="container">
           <div className="lead">
             <div className="elevator">
-              <h1>توتومينا</h1>
+              <h1>مجتمع روف</h1>
               <p>
-                الويب يعني ثقافة المشاركة، لذلك نعتقد في مدونة توتومينا بأن
-                المعلومة مهما كانت بسيطة لا يجب أن تبقى حكرا على أشخاص معينين بل
-                يجب مشاركتها مع الآخرين وبذلك نرتقي بأنفسنا وبمحتوى لغتنا
-                العربية العزيزة على الإنترنت.
+                إثراء المحتوى العربي بالمعلومات التقنية هو هدف مجتمعنا لنبني مجتمع متساعد يحقق نجاح ومصدر لكل شخص أنطلق في عالم التقنية لنصبح شركاء له في النجاح
               </p>
               <div className="social-buttons">
                 <div>
                   <a
-                    href="https://www.twitter.com/tutomena"
-                    title="حساب توتومينا على تويتر"
+                    href="https://www.twitter.com/roov_sa"
+                    title="حساب روف على تويتر"
                     target="_blank"
                   >
                     <img src={twitterIcon} alt="حساب توتومينا على تويتر" />
-                  </a>
-                </div>
-                <div>
-                  <a
-                    href="https://www.facebook.com/tutomena"
-                    title="حساب توتومينا على فيسبوك"
-                    target="_blank"
-                  >
-                    <img src={facebookIcon} alt="حساب توتومينا على فيسبوك" />
                   </a>
                 </div>
                 {/* <div>
@@ -66,16 +54,15 @@ export default class Index extends Component {
             </div>
             <div className="newsletter-section">
               <img
-                src={tutomena}
+                src={roov}
                 className="newsletter-avatar"
-                alt="عيسى محمد علي"
+                alt="عبدالرحمن خالد"
               />
               <div>
                 <h3>توصل بالجديد دائما</h3>
                 <p>
-                  اشترك في قائمة توتومينا البريدية للتوصل بآخر الدروس والمقالات
-                  الحصرية، وكذلك عروض العمل من شركائنا الذين يثقون في جمهور
-                  مدونة توتومينا.
+                  اشترك في قائمة روف البريدية للتوصل بآخر الدروس والمقالات
+                  الحصرية.
                 </p>
                 <a className="button" href="/newsletter">
                   أريد الإشتراك
