@@ -16,7 +16,7 @@ const config = {
   userName: 'عبدالرحمن',
   userEmail: 'admin@roovhost.com',
   userTwitter: 'roov_sa',
-  gatsby_disqus_name: 'roov',
+  gatsby_disqus_name: 'aissa',
   menuLinks: [
     {
       name: 'عن روف ؟',
