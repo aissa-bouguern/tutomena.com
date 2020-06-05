@@ -39,7 +39,7 @@ export default class Navigation extends Component {
         <div className="nav-container">
           <div className="brand">
             <Link to="/">
-              <img src={tutomena} className="favicon" alt="مجتمع روف" />
+              <img src={roov} className="favicon" alt="مجتمع روف" />
               <span className="text">مجتمع روف</span>
             </Link>
           </div>
