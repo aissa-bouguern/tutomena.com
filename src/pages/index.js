@@ -38,18 +38,9 @@ export default class Index extends Component {
                     title="حساب روف على تويتر"
                     target="_blank"
                   >
-                    <img src={twitterIcon} alt="حساب توتومينا على تويتر" />
+                    <img src={twitterIcon} alt="حساب روف على تويتر" />
                   </a>
                 </div>
-                {/* <div>
-                  <a
-                    href="https://www.youtube.com/channel/UCN_OqOSbjFFH3Tkr8FbquTA"
-                    title="قناة توتومينا على يوتيوب"
-                    target="_blank"
-                  >
-                    <img src={youtubeIcon} alt="قناة توتومينا على يوتيوب" />
-                  </a>
-                </div> */}
               </div>
             </div>
             <div className="newsletter-section">
