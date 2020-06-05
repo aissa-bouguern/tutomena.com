@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby';
-import tutomena from '../images/tutomena.png';
+import roov from '../images/roov.png';
 import sun from '../images/sun.svg';
 import moon from '../images/moon.svg';
 import kofi from '../../content/thumbnails/kofi.png';
