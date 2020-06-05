@@ -1,6 +1,6 @@
-import photo_aissa from './avatars/aissa.png';
+import photo_abdulrhman from './avatars/abdulrhman.png';
 
-const aissa = {
+const abdulrhman = {
   name: 'عيسى محمد علي',
   photo: photo_aissa,
   bio:
@@ -13,4 +13,4 @@ const aissa = {
     linkedin: 'https://linkedin.com/in/bouguern'
   }
 };
-export default { aissa };
+export default { abdulrhman };
