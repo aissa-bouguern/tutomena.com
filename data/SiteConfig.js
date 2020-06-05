@@ -1,25 +1,25 @@
 const config = {
-  siteTitle: 'مدونة توتومينا',
-  siteTitleShort: 'مدونة توتومينا',
-  siteTitleAlt: 'مدونة توتومينا',
-  siteLogo: '/logos/logo-1024.png',
+  siteTitle: 'مجتمع روف',
+  siteTitleShort: 'مجتمع روف',
+  siteTitleAlt: 'مجتمعروف',
+  siteLogo: '/logos/logo.png',
   siteUrl: 'https://www.tutomena.com',
   repo: 'https://github.com/aissa-bouguern/tutomena.com',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
   siteDescription:
-    'في مدونة توتومينا ننشر كل ما له علاقة بأحدث تقنيات تطوير الويب، ونولي اهتماما خاصا للغة البرمجة جافاسكريبت. مقالاتنا تتسم بأسلوب سلس وسهل حتى على المبتدئين.',
+    'معاً نحقق مجتمع تقني واعد ومزدحم بالمعرفة وبلغة عربية لكل مواطن ينطق بالعربية ، نحن هنا لنبني مسار جديد يوجه الجميع لنجاح',
   siteRss: '/rss.xml',
   googleAnalyticsID: 'UA-60278591-1',
   postDefaultCategoryID: 'تقنية',
-  userName: 'عيسى',
-  userEmail: 'contact@tutomena.com',
-  userTwitter: 'tutomena',
-  gatsby_disqus_name: 'tutomena',
+  userName: 'عبدالرحمن',
+  userEmail: 'admin@roovhost.com',
+  userTwitter: 'roov_sa',
+  gatsby_disqus_name: 'roov',
   menuLinks: [
     {
-      name: 'عن توتومينا ؟',
+      name: 'عن روف ؟',
       link: '/about-us/'
     },
     {
