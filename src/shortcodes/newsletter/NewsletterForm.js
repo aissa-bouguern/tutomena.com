@@ -47,7 +47,7 @@ export default function NewsletterForm() {
       {message && <blockquote className={result.result}>{message}</blockquote>}
       <div>
         <div className="newsletter-form">
-          <h4>القائمة البريدية لتوتومينا</h4>
+          <h4>القائمة البريدية لروف</h4>
           <p>
             اشترك في قائمة روف البريدية وتوصل بأحدث الدروس والمقالات
             الحصرية.{' '}
