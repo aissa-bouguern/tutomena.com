@@ -198,7 +198,7 @@ module.exports = {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
         endpoint:
-          'https://roovhost.us10.list-manage.com/subscribe/post?u=3671887a2c638029bc190b540' // add your MC list endpoint here; see instructions below
+          'https://roovhost.us10.list-manage.com/subscribe/post?u=3671887a2c638029bc190b540&amp;id=eb182407c6' // add your MC list endpoint here; see instructions below
       }
     }
   ]
