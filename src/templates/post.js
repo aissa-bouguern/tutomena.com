@@ -107,11 +107,7 @@ export default class PostTemplate extends Component {
           />
         </div>
 
-        <div className="container">
-          <div className="comments">
-            <DiscussionEmbed {...disqusConfig} />
-          </div>
-        </div>
+
 
         <div className="container">
           <NewsletterForm />
