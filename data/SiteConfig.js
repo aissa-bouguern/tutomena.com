@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: 'مجتمع روف',
   siteTitleAlt: 'مجتمع روف',
   siteLogo: '/logos/logo-1024.png.png',
-  siteUrl: 'https://www.tutomena.com',
+  siteUrl: 'https://www.roovhost.com',
   repo: 'https://github.com/aissa-bouguern/tutomena.com',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
