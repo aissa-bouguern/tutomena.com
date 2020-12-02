@@ -1,20 +1,23 @@
-@import "../../styles/base/variables.scss";
+@import '../../styles/base/variables.scss';
 .author-widget {
   display: flex;
+  flex-direction: column;
   align-items: center;
   padding: 2rem;
   margin: 5rem 0;
   background-color: #f7f7f7;
-  border-top: 2px solid #e1e7f4;
-  border-bottom: 2px solid #e1e7f4;
+  border: 2px solid #e1e7f4;
+  border-radius: 5px;
+  text-align: center;
+
   .photo {
     width: 128px;
     height: 128px;
     overflow: hidden;
     border-radius: 50%;
+    margin-bottom: 1.8rem;
   }
   .about {
-    width: calc(100% - 128px);
     padding-right: 2rem;
     h5 {
       margin-bottom: 1rem;
@@ -32,6 +35,30 @@
           margin-bottom: 0;
         }
       }
+    }
+  }
+
+  @media screen and (min-width: 576px) {
+    flex-direction: row;
+    text-align: start;
+
+    .about {
+      width: calc(100% - 128px);
+    }
+
+    .photo {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.dark {
+  .author-widget {
+    background-color: #1a1a1a;
+    border-color: #323232;
+
+    svg {
+      fill: #fff;
     }
   }
 }

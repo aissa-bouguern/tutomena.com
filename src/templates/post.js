@@ -15,6 +15,8 @@ import { NewsletterForm } from '../shortcodes';
 
 import SimilarArticles from '../components/SimilarArticles';
 
+import { Support } from '../shortcodes';
+
 export default class PostTemplate extends Component {
   constructor(props) {
     super(props);
@@ -96,6 +98,10 @@ export default class PostTemplate extends Component {
           /> */}
           <MDXRenderer>{postNode.body}</MDXRenderer>
         </article>
+
+        <div className="container" style={{ marginBottom: '5rem' }}>
+          <Support />
+        </div>
 
         <div className="container">
           <h3>مواضيع ذات صلة:</h3>

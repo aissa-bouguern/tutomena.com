@@ -1,0 +1,36 @@
+.btn-patreon {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.3rem;
+  font-style: normal;
+  text-transform: none;
+  letter-spacing: 0;
+  border-radius: 4px;
+  padding: 0.5em 1.8em;
+  background-color: #f96854;
+  color: #fff !important;
+
+  svg {
+    margin-right: 0.5em;
+    display: inline-block;
+  }
+
+  &:hover {
+    background-color: #163240;
+  }
+}
+.support-container {
+  border: 2px solid #e1e7f4;
+  border-radius: 5px;
+  padding: 2rem;
+  text-align: center;
+  margin: 5rem 0;
+  font-weight: bold;
+}
+
+.dark {
+  .support-container {
+    background-color: #1a1a1a;
+    border-color: #323232;
+  }
+}

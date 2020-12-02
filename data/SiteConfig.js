@@ -20,19 +20,20 @@ const config = {
   menuLinks: [
     {
       name: 'عن توتومينا ؟',
-      link: '/about-us/'
+      link: '/about-us/',
     },
     {
       name: 'المنشورات',
-      link: '/blog/'
+      link: '/blog/',
     },
     {
       name: 'اتصل بنا',
-      link: '/contact/'
-    }
+      link: '/contact/',
+    },
   ],
   themeColor: '#3F80FF', // Used for setting manifest and progress theme colors.
-  backgroundColor: '#ffffff'
+  backgroundColor: '#ffffff',
+  patreonPageUrl: 'https://www.patreon.com/tutomena',
 };
 
 // Make sure pathPrefix is empty if not needed

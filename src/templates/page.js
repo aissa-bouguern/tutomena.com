@@ -8,6 +8,8 @@ import Layout from '../layout';
 import SEO from '../components/SEO';
 import config from '../../data/SiteConfig';
 
+import { Support } from '../shortcodes';
+
 export default class PageTemplate extends Component {
   render() {
     const { slug } = this.props.pageContext;
@@ -29,13 +31,9 @@ export default class PageTemplate extends Component {
             <header className="page-header">
               <h1>{page.title}</h1>
             </header>
-            {/* <div
-              className="page"
-              dangerouslySetInnerHTML={{ __html: postNode.html }}
-            /> */}
-
             <MDXRenderer>{postNode.body}</MDXRenderer>
           </article>
+          <Support />
         </div>
       </Layout>
     );

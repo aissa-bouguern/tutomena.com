@@ -193,7 +193,7 @@ thumbnail: '../thumbnails/vue.png'
 
 ## إحصائية الزيارات المكتسبة في هذا الأسبوع
 
-[![](../images/vuejs-acquisition-stats-685x1024.jpg)](../images/vuejs-acquisition-stats.jpg)
+![](../images/vuejs-acquisition-stats.jpg)
 
 ## الآن
 
@@ -210,3 +210,5 @@ thumbnail: '../thumbnails/vue.png'
 ---
 
 ما رأيكم بهذه القصة إخواني ؟ أليست مثيرة للإعجاب حقا ؟ شاركوني آراءكم من فضلكم.
+
+<Author slug="aissa" />
